@@ -1,0 +1,14 @@
+# Secrets and configs
+.env
+
+# Benchmark run history
+benchmark_history.json
+
+# Jupyter & Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Exclude notes and original notebook
+Maisa -Pape.md
+find_ideal_machine_type.ipynb
